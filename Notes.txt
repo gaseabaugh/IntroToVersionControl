@@ -1,0 +1,40 @@
+Open VS code
+Open folder - browse to project folder
+	new file- index.html
+	image shortcut !
+Terminal
+	Choose new terminal (open at bottom)
+	Type "git init" Enter
+		File turns green with U
+	Type "git status"
+	Type "git add ." Enter  (. means all)
+		File still green, letter changes to A
+	Type "git commit -m "First Commit" Enter
+	Type "git status" Enter
+		file turns white - means up to date with changes in code
+
+Add paragraph <p></p>
+
+	file changes to orange
+
+Type git status
+	File modified but not commited
+type 'git add .' Enter
+Type 'git status' Enter
+	green in terminal but orange file 
+type 'git commit -m "Added Paragraph"' Enter
+
+Type 'git status' Enter
+	File now white (up to date)
+
+
+GitHub
+
+Set up account in github.com
+
+New - to start new repository.
+	name repository	
+	Public
+	Create
+
+"
